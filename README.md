@@ -2,7 +2,7 @@
 ## GrabCut
 
 For this task we, implement the GrabCut method mentioned in this [paper](https://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf). It is essentially an iterative version of GraphCut as shown in the figure below. 
-![graphcut.png](attachment:graphcut.png)
+![grahcut.png](https://github.com/navaneet625/Image_segmentation_Grab_cut/blob/main/graphcut.png)
 
 The code below takes an input image and follows these steps:
 - It requires a bounding box to be drawn by the user to roughly segment out the foreground pixels
